@@ -1,4 +1,4 @@
-# PSTAT 194CS Computational Methods in Statistics Final Project
+# PSTAT 194CS Final Project
 
 ## Predicting Data Science and STEM Salaries with Permutation Tests and Bootstrapping
 
