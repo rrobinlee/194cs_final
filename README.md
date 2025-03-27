@@ -1,6 +1,4 @@
-# PSTAT 194CS Final Project
-
-## Predicting Data Science and STEM Salaries with Permutation Tests and Bootstrapping
+# Predicting Data Science and STEM Salaries with Permutation Tests and Bootstrapping
 
 **Author:** *Robin Lee, Eric Song, Justin Liu*
 
